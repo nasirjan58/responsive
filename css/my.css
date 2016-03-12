@@ -1,0 +1,13 @@
+/* CSS Document */
+
+#headertop{
+	height:80px;
+	background-color:yellow;}
+	img{
+		max-width:100%;}
+		#topleft{
+			background-color:red;}
+			#topright{
+				background-color:white;}
+				.row{
+					padding-top:10px;}
